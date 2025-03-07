@@ -1,2 +1,2 @@
 # New Project
-This project was reated from local system.
+This project was created from local system.
